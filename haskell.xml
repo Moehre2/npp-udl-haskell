@@ -26,7 +26,7 @@
 			<Keywords name="Folders in comment, middle"></Keywords>
 			<Keywords name="Folders in comment, close"></Keywords>
 			<Keywords name="Keywords1">Int Bool Char Num Integer Float Double True False where let if then else case class data deriving do in infix infixl infixr instance of module newtype then type</Keywords>
-			<Keywords name="Keywords2">Show otherwise sqrt length succ map odd filter</Keywords>
+			<Keywords name="Keywords2">Show otherwise sqrt length succ map odd filter max min maxBound minBound take mod show</Keywords>
 			<Keywords name="Keywords3">\</Keywords>
 			<Keywords name="Keywords4">import qualified as</Keywords>
 			<Keywords name="Keywords5">@ _</Keywords>
